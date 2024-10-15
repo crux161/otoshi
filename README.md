@@ -1,19 +1,18 @@
-# Omakub
+# otoshi お通し
 
-Turn a fresh Ubuntu installation into a fully-configured, beautiful, and modern web development system by running a single command. That's the one-line pitch for Omakub. No need to write bespoke configs for every essential tool just to get started or to be up on all the latest command-line tools. Omakub is an opinionated take on what Linux can be at its best.
+A fork of "omakub" radically rethought so as no tonpush commercial services via applications and useless configurations. Ideally the initial framework will act as a system to set themes and other personalized touches to a fresh install. 
 
-Watch the introduction video and read more at [omakub.org](https://omakub.org).
+## Contributing 
 
-## Contributing to the documentation
-
-Please help us improve Omakub's documentation on the [basecamp/omakub-site repository](https://github.com/basecamp/omakub-site).
+Please help me improve this if you wish, no serious contributions will be ignored. 
 
 ## License
 
-Omakub is released under the [MIT License](https://opensource.org/licenses/MIT).
+Otoshi is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Extras
+## Roadmap
+• Reimplementation of Omakub (take out the sucky commerical bits)
 
-While omakub is purposed to be an opinionated take, the open source community offers alternative customization, add-ons, extras, that you can use to adjust, replace or enrich your experience.
+• Isolate and repackage concepts for themes so they are easily backed up, reloaded, or switched over to other themes which will ideally be sharable. 
 
-[⇒ Browse the omakub extensions.](EXTENSIONS.md)
+• hide SFW furry art as easteregg ^v^*
